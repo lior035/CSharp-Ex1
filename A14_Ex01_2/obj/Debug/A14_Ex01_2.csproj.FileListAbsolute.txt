@@ -1,0 +1,12 @@
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\bin\Debug\A14_Ex01_2.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\bin\Debug\A14_Ex01_2.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\bin\Debug\A14_Ex01_2.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\obj\Debug\A14_Ex01_2.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\obj\Debug\A14_Ex01_2.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\obj\Debug\A14_Ex01_2.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\bin\Debug\A14_Ex01_2.exe.config
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\obj\Debug\A14_Ex01_2.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\obj\Debug\A14_Ex01_2.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\bin\Debug\A14_Ex01_2.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\bin\Debug\A14_Ex01_2.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\A14 Ex 01 Lior 304826753 Or 301123725\A14_Ex01_2\obj\Debug\A14_Ex01_2.csprojResolveAssemblyReference.cache
